@@ -3,7 +3,7 @@ body {
 }
 
 .site {
-    max-width: 60em;
+    max-width: var(--layout-width, 60em);
     margin: 0 auto;
 }
 .site-header {
