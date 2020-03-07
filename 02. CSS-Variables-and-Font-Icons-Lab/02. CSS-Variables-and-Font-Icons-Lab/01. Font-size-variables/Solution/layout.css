@@ -1,0 +1,16 @@
+.content {
+    width: 50%;
+    margin: 0 auto;
+    font-family: Futura, sans-serif;
+}
+h1 {
+    text-align: center;
+    font-size: var(--h1-font-size);
+}
+h3 {
+    font-size: var(--h3-font-size);
+    font-style: italic;
+}
+p {
+    font-size: var(--p-font-size);
+}

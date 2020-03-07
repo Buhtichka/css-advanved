@@ -1,0 +1,32 @@
+section {
+    width: 70%;
+    height: 200px;
+    margin: 0 auto;
+    border: 1px solid var(--yellow-color);
+    border-radius: 5px;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+    margin: 1em;
+}
+h2, p {
+    color: var(--primary-color);
+}
+a{
+    text-decoration: none;
+    color: var(--white-color);
+    font-weight: bold;  
+}
+.button {
+    background-color: var(--yellow-color);
+    border: none;
+    border-radius: 5px;
+    padding: 0.7em 1em;
+}
+a:hover {
+    color: var(--yellow-color)
+}
+.button:hover{
+    background-color: var(--primary-color);
+}
