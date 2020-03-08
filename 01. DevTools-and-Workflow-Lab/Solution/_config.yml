@@ -1,6 +1,7 @@
 title: My first jekyll site
 email: buhtichka@example.com
 description: This is my first ever jekyll site
+destination: docs
 baseurl: "" 
 url: "" 
 twitter_username: buhtichkata
